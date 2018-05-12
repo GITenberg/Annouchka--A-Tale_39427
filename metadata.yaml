@@ -1,0 +1,38 @@
+_repo: Annouchka--A-Tale_39427
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Abbott, Franklin Pierce
+    alias: Abbott, Franklin P.
+    gutenberg_agent_id: '40016'
+    url: http://www.gutenberg.org/2009/agents/40016
+covers:
+- cover_type: archival
+  image_path: 39427-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Turgénieff, Iván
+    - Toergenev, Ivan
+    - Tourgueneff, Ivan
+    - Тургенев, Иван Сергеевич
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2012-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcc 'PG'
+title: 'Annouchka: A Tale'
+url: http://www.gutenberg.org/ebooks/39427
